@@ -22,12 +22,6 @@ Aayush Pandey - 19AE10001
 
 ```
 
-### Dataset Sample
-
-![alt text](https://github.com/yaswanth-iitkgp/Asking-Clarifying-Questions/blob/main/Imgs/Task%20-1%20Dataset.png)
-![alt text](https://github.com/yaswanth-iitkgp/Asking-Clarifying-Questions/blob/main/Imgs/Task%20-2%20Dataset.png)
-
-
 ### Clarification Need Prediction LeaderBoard  (Our Best Rank = 2)
 
 | **ًRank**  | **Creator**  | **Model Name**       | **Dev**  |           |          | **Test** |          |          |
@@ -44,3 +38,9 @@ Aayush Pandey - 19AE10001
 | 9     | NTES_ALONG | cneed_add_ prior_v2 | 0.62       | 0.6      | 0.5984     | 0.5007     | 0.5082     | 0.5018    |
 | 10    | NTES_ALONG | cneed_merge         | 0.583      | 0.52     | 0.5192     | 0.4847     | 0.5082     | 0.496     |
 
+
+
+### Dataset Sample
+
+![alt text](https://github.com/yaswanth-iitkgp/Asking-Clarifying-Questions/blob/main/Imgs/Task%20-1%20Dataset.png)
+![alt text](https://github.com/yaswanth-iitkgp/Asking-Clarifying-Questions/blob/main/Imgs/Task%20-2%20Dataset.png)
