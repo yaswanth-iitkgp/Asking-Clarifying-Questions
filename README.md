@@ -22,6 +22,12 @@ Aayush Pandey - 19AE10001
 
 ```
 
+### Dataset Sample
+
+![alt text](https://github.com/yaswanth-iitkgp/Asking-Clarifying-Questions/blob/main/Imgs/Task%20-1%20Dataset.png)
+![alt text](https://github.com/yaswanth-iitkgp/Asking-Clarifying-Questions/blob/main/Imgs/Task%20-2%20Dataset.png)
+
+
 ### Clarification Need Prediction LeaderBoard  (Our Best Rank = 2)
 
 | **ًRank**  | **Creator**  | **Model Name**       | **Dev**  |           |          | **Test** |          |          |
