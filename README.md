@@ -57,7 +57,7 @@ Pipeline architecture that is implemented:
 2. Question is inputted to the classifier model (e.g. BERT)
 3. If the classification is:
           > 1 or 2: Questions don't require clarity. Output this directly.
-          > 3 or 4: Question requires clarity. Proceed further.  \end{itemize}
+          > 3 or 4: Question requires clarity. Proceed further.
 4. Send the question to the retriever model (e.g. Electra)
 5. Electra ranks the top 3 clarifying questions as per the contextual semantics
 6. Choose a clarifying question out of the 3 as per a probability function
